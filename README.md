@@ -1,6 +1,6 @@
 This is a training console project.
 
-Here main.py is a main file of a project, where all the modules (TK_1.py - TK-5.py) was included 
+Here main.py is a main file of a project, where all the modules (TK_1.py - TK-5.py) was included.
 The functions  to process a list in a different ways was taken from included modules.
 
 Then results were printed in a table, which was created by using "prettyttable" library.
